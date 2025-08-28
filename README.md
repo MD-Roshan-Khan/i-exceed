@@ -1,3 +1,3 @@
 # i-exceed
 
-A repository to upload the the files which consists the programms practiced on the particular day.
+A repository to upload the files that consist of the programs practiced on the particular day.
